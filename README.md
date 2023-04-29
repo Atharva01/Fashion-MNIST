@@ -1,2 +1,3 @@
 
-## _Fashion MNIST classifier using CNN_
+## Fashion MNIST classifier using CNN
+### Implementation using Keras
